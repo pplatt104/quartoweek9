@@ -1,0 +1,13 @@
+---
+title: "week9git"
+format: html
+---
+
+## 
+
+## Introduction
+
+Hellow and welcome to week 9 of data analysis and visualisation....it's a great place to be.
+
+```{r} my_object <- 45 print(my_object)}
+```
